@@ -1,5 +1,7 @@
-In development - UR Hackathon repository
+Repository containing the code to the (Winner!) solution presented during the Universal Robots Hackathon - Barcelona April 11th 2019.
 
-Photos in [OneDrive folder](https://lasalleuniversities-my.sharepoint.com/:f:/g/personal/gabriel_cammany_students_salle_url_edu/EgvQ6ggHcMFLkosF0HqoTUsBhxasIVTj1-WI3FKcZQPpzw?e=lJNk4G) 
+## Presentation video
+[![Competition day](https://img.youtube.com/vi/Z2TXqeZjVBE/0.jpg)](https://www.youtube.com/watch?v=Z2TXqeZjVBE "Competition day")
 
-Here is the [link](https://github.com/thorsten-gehrig/alexa-remote-control) to the Alexa Control github repository.
+## Credits
+- [Alexa Control repo](https://github.com/thorsten-gehrig/alexa-remote-control)
